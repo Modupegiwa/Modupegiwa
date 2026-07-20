@@ -8,7 +8,7 @@ I'm an Operations analyst passionate about data analytics, workflow automation, 
 🗃️ Working with SQL, Google BigQuery and Python for data analysis
 ⚡ Exploring AI-powered productivity tools and business automation
 
-🛠️ Tech Stack
+🛠️ Tech Stack /n
 💻 Python • SQL • Power BI • Airtable • n8n • Git & GitHub • Microsoft Excel • JavaScript • Google Data Studio (Looker) • Tableau
 
 🌱 Currently Learning
