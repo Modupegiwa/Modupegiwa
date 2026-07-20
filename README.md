@@ -3,12 +3,12 @@ Hi there, I'm Modupe! 👋
 I'm an Operations analyst passionate about data analytics, workflow automation, and operations. I enjoy building solutions that simplify processes, turn data into insights, and improve decision-making.
 
 🚀 What I'm Working On
-🤖 Automating workflows with n8n
+<br>🤖 Automating workflows with n8n
 📊 Building dashboards with Power BI, Google Data Studio (Looker) and Tableau
 🗃️ Working with SQL, Google BigQuery and Python for data analysis
 ⚡ Exploring AI-powered productivity tools and business automation
 
-🛠️ Tech Stack /n
+🛠️ Tech Stack<br> 
 💻 Python • SQL • Power BI • Airtable • n8n • Git & GitHub • Microsoft Excel • JavaScript • Google Data Studio (Looker) • Tableau
 
 🌱 Currently Learning
