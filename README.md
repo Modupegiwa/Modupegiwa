@@ -1,6 +1,6 @@
 Hi there, I'm Modupe! 👋
 
-I'm an Operations analyst passionate about data analytics, workflow automation, and operations. I enjoy building solutions that simplify processes, turn data into insights, and improve decision-making.
+I'm an Operations analyst passionate about data analytics, workflow automation, and operations.<br>  I enjoy building solutions that simplify processes, turn data into insights, and improve decision-making.
 
 🚀 What I'm Working On
 <br>🤖 Automating workflows with n8n<br> 
@@ -19,6 +19,4 @@ I'm an Operations analyst passionate about data analytics, workflow automation, 
 📫 Let's Connect<br> 
 ⚡ Website: bit.ly/modupeola-giwa<br> 
 💼 LinkedIn: https://www.linkedin.com/in/modupe-giwa-7b9a7417b/<br> 
-✍🏽 Medium: https://modupe-giwa.medium.com/<br> 
-
-"Building practical solutions through data, automation, and continuous learning." ✨
+✍🏽 Medium: https://modupe-giwa.medium.com/ 
